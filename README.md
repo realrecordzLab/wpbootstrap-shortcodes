@@ -1,6 +1,6 @@
 ## Bootstrap shortcodes
 
-This dirty and quick simple plugin will allow you to use the Bootstrap 4 grid system for your pages and posts content layout.
+This simple plugin will allow you to use the Bootstrap 4 grid system for your pages and posts content layout.
 It's inspired by various page builders that under the hood will use the shortcode API of WordPress to style the contents of a post or a page. It will not provide a traditional drag & drop user interface like the other page builders but it's a very powerful tool if you have a bit of knowledge of the Bootstrap responsive grid system. 
 
 **NB: Use it with the classic editor. Not tested with Gutemberg.**
